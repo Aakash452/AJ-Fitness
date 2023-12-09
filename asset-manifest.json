@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AJ-Fitness/static/css/main.20acbc28.css",
+    "main.js": "/AJ-Fitness/static/js/main.df2c7e5b.js",
+    "static/media/banner.png": "/AJ-Fitness/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/AJ-Fitness/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/AJ-Fitness/index.html",
+    "main.20acbc28.css.map": "/AJ-Fitness/static/css/main.20acbc28.css.map",
+    "main.df2c7e5b.js.map": "/AJ-Fitness/static/js/main.df2c7e5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.df2c7e5b.js"
+  ]
+}
